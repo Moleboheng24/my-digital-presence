@@ -9,8 +9,9 @@ export const profile = {
   location: "Johannesburg, South Africa",
   email: "molebohenghlalele114@gmail.com",
   phone: "060 993 0830",
-  github: "https://github.com/",
-  linkedin: "https://www.linkedin.com/",
+  github: "https://github.com/moleboheng24",
+  linkedin: "https://www.linkedin.com/in/moleboheng-hlalele-70b739360?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+
 };
 
 export const technicalSkills = [

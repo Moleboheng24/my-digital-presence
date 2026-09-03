@@ -62,8 +62,9 @@ function Home() {
             <span className="size-8 rounded-2xl bg-berry grid place-items-center text-cream text-sm">
               M
             </span>
-            Mavis<span className="text-berry">.</span>
+            Moleboheng<span className="text-berry">.</span>
           </a>
+
           <div className="hidden md:flex items-center gap-7 font-mono text-xs uppercase tracking-wider text-mutedink">
             {navLinks.map((link) => (
               <a key={link.href} href={link.href} className="hover:text-ink transition-colors">
@@ -88,9 +89,9 @@ function Home() {
               {profile.role} · {profile.location}
             </p>
             <h1 className="font-display font-bold leading-[0.95] text-5xl sm:text-7xl lg:text-8xl tracking-tight text-balance animate-pop [animation-delay:80ms]">
-              Hi, I'm Mavis<span className="text-berry">.</span> I build dependable, thoughtful
-              software.
+              Moleboheng Mavis Hlalele<span className="text-berry">.</span>
             </h1>
+
             <p className="mt-6 text-lg text-mutedink max-w-[46ch] text-pretty animate-pop [animation-delay:160ms]">
               WeThinkCode_ graduate from Johannesburg, turning clean logic and careful problem
               solving into software people can rely on.
@@ -341,8 +342,9 @@ function Home() {
 
       <footer className="max-w-6xl mx-auto px-5 sm:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-3">
         <p className="font-display font-semibold">
-          Mavis<span className="text-berry">.</span>
+          Moleboheng<span className="text-berry">.</span>
         </p>
+
         <p className="font-mono text-xs text-mutedink">
           © {new Date().getFullYear()} · Built with care in Johannesburg
         </p>
