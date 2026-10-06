@@ -11,7 +11,7 @@ export const profile = {
   phone: "060 993 0830",
   github: "https://github.com/moleboheng24",
   linkedin: "https://www.linkedin.com/in/moleboheng-hlalele-70b739360?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-  Prompt_Engineering_Case_Study: "https://intelligent-artisan-studio.lovable.app/case-studies/prompt-engineering"
+  Prompt_Engineering_Case_Study: "https://intelligent-artisan-studio.lovable.app/case-studies/prompt-engineering",
 
 };
 
